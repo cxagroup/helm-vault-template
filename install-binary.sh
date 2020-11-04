@@ -2,7 +2,7 @@
 
 set -ueo pipefail
 
-VERSION=v0.1.3
+VERSION=v0.1.4
 
 export PLUGIN_DIR=$(dirname "$0")
 
